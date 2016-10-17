@@ -13,7 +13,6 @@
 		BC0DC9771DB4F2F500F41A21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0DC9761DB4F2F500F41A21 /* Assets.xcassets */; };
 		BC0DC97A1DB4F2F500F41A21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0DC9781DB4F2F500F41A21 /* LaunchScreen.storyboard */; };
 		BC0DC9821DB5047C00F41A21 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0DC9811DB5047C00F41A21 /* AddViewController.swift */; };
-		BC0DC9841DB5062500F41A21 /* BViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0DC9831DB5062500F41A21 /* BViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		BC0DC9791DB4F2F500F41A21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC0DC97B1DB4F2F500F41A21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC0DC9811DB5047C00F41A21 /* AddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
-		BC0DC9831DB5062500F41A21 /* BViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				BC0DC9811DB5047C00F41A21 /* AddViewController.swift */,
-				BC0DC9831DB5062500F41A21 /* BViewController.swift */,
 				BC0DC96E1DB4F2F500F41A21 /* gitHubDemo */,
 				BC0DC96D1DB4F2F500F41A21 /* Products */,
 			);
@@ -142,7 +139,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC0DC9721DB4F2F500F41A21 /* ViewController.swift in Sources */,
-				BC0DC9841DB5062500F41A21 /* BViewController.swift in Sources */,
 				BC0DC9701DB4F2F500F41A21 /* AppDelegate.swift in Sources */,
 				BC0DC9821DB5047C00F41A21 /* AddViewController.swift in Sources */,
 			);
