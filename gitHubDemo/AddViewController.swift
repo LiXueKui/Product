@@ -15,6 +15,8 @@ class AddViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         print("AddVC")
+        
+        print("添加了一行代码")
     }
 
     override func didReceiveMemoryWarning() {
